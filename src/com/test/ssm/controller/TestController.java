@@ -5,5 +5,6 @@ package com.test.ssm.controller;
  */
 public class TestController {
 
+    private String test = "这是第一个测试的上传代码！！！";
 
 }
